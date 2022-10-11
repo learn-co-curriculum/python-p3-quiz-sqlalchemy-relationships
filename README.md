@@ -1,5 +1,5 @@
 ---
-id: <Canvas quiz id>
+id: 38307
 course_id: 5935
 repo: python-p3-quiz-sqlalchemy-relationships
 ---
